@@ -1,7 +1,7 @@
 INTEGRANTES DO GRUPO
-- André Silva Rosa
-- Lucas Mateus Vaz De Lima
-- Suiene Bianca Ferreira Gandra
+- André
+- Lucas
+- Suiene
 
 ACESSO AO SISTEMA
 Login: admin
